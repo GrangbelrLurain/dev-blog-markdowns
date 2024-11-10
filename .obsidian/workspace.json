@@ -1,0 +1,371 @@
+{
+  "main": {
+    "id": "1a6ec1ae6d067d37",
+    "type": "split",
+    "children": [
+      {
+        "id": "671bea4515c22e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f49547aaf0de4037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "리액트 18버전의 지리는 신기능 3개 (startTransition 등).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "리액트 18버전의 지리는 신기능 3개 (startTransition 등)"
+            }
+          },
+          {
+            "id": "8ae6632d2ee614d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "컴포넌트간 느슨하게 연결하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "컴포넌트간 느슨하게 연결하기"
+            }
+          },
+          {
+            "id": "b6d5f9c235a53c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next.js에서 Typescript로 AWS S3에 이미지 파일 업로드, 삭제하는 방법.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next.js에서 Typescript로 AWS S3에 이미지 파일 업로드, 삭제하는 방법"
+            }
+          },
+          {
+            "id": "a471a876b7811430",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React에서 useState 리렌더링 문제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React에서 useState 리렌더링 문제"
+            }
+          },
+          {
+            "id": "b7d6b5bcbbdb9c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git 삭제파일 반영하기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git 삭제파일 반영하기"
+            }
+          },
+          {
+            "id": "60f9494c24926b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Next.js - Storybook 오류 해결.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Next.js - Storybook 오류 해결"
+            }
+          },
+          {
+            "id": "3a6b5a01370d5caf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript는 브라우저에서 어떻게 동작할까.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript는 브라우저에서 어떻게 동작할까"
+            }
+          },
+          {
+            "id": "5cbb11b7d46776c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript 엔진의 동작 원리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Javascript 엔진의 동작 원리"
+            }
+          },
+          {
+            "id": "afe88984d07c5962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hyper Text Transfer Protocol이 뭔데(HTTP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hyper Text Transfer Protocol이 뭔데(HTTP)"
+            }
+          },
+          {
+            "id": "a53ef0be6d010a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTPS는 왜 빠를까.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTPS는 왜 빠를까"
+            }
+          },
+          {
+            "id": "be71338ac3bcd0aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTPS는 왜 빠를까.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTPS는 왜 빠를까"
+            }
+          },
+          {
+            "id": "7a93bbbd1f0eaf91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React 무한 리랜더링 오류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React 무한 리랜더링 오류"
+            }
+          },
+          {
+            "id": "fa82ffe0fb2dec8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React 무한 리랜더링 오류.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React 무한 리랜더링 오류"
+            }
+          },
+          {
+            "id": "7e0525a35509b957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MVC와 MVP의 차이점.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MVC와 MVP의 차이점"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bd839fe85592397",
+    "type": "split",
+    "children": [
+      {
+        "id": "355353ed996e7d0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c516a62b7153c9ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c2db71a5cb059925",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "23d23e8711dc5858",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdb9197b9ab54cfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f1834c8edc52bb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "171cb506a98121e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTTPS는 왜 빠를까.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "HTTPS는 왜 빠를까의 백링크"
+            }
+          },
+          {
+            "id": "977a5b7adfe7ad60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Javascript는 브라우저에서 어떻게 동작할까.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Javascript는 브라우저에서 어떻게 동작할까의 나가는 링크"
+            }
+          },
+          {
+            "id": "edfbe1f3d91e0b31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "13235268d55ac99a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Javascript는 브라우저에서 어떻게 동작할까.md"
+              },
+              "icon": "lucide-list",
+              "title": "Javascript는 브라우저에서 어떻게 동작할까 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "be71338ac3bcd0aa",
+  "lastOpenFiles": [
+    "Hyper Text Transfer Protocol이 뭔데(HTTP).md",
+    "Javascript 엔진의 동작 원리.md",
+    "HTTPS는 왜 빠를까.md",
+    "Next.js - Storybook 오류 해결.md",
+    "Pasted image 20241017000516.png",
+    "Pasted image 20241020224352.png",
+    "Pasted image 20241018231605.png",
+    "Pasted image 20241018223939.png",
+    "Pasted image 20241018223703.png",
+    "Pasted image 20241017005724.png",
+    "리액트 18버전의 지리는 신기능 3개 (startTransition 등).md",
+    "컴포넌트간 느슨하게 연결하기.md",
+    "Git 삭제파일 반영하기.md",
+    "태그 잘 안 닫으면 생기는 오류.md",
+    "Next.js에서 Typescript로 AWS S3에 이미지 파일 업로드, 삭제하는 방법.md",
+    "MVC와 MVP의 차이점.md",
+    "Javascript는 브라우저에서 어떻게 동작할까.md",
+    "React에서 useState 리렌더링 문제.md",
+    "React 무한 리랜더링 오류.md",
+    "Pasted image 20241018223202.png",
+    "Pasted image 20241017005718.png"
+  ]
+}
